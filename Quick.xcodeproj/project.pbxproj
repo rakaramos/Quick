@@ -193,17 +193,14 @@
 		CE57CEDE1C430BD200D63004 /* QuickSelectedTestSuiteBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CED91C430BD200D63004 /* QuickSelectedTestSuiteBuilder.swift */; };
 		CE57CEDF1C430BD200D63004 /* QuickTestSuite.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDA1C430BD200D63004 /* QuickTestSuite.swift */; };
 		CE57CEE01C430BD200D63004 /* URL+FileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDB1C430BD200D63004 /* URL+FileName.swift */; };
-		CE57CEE11C430BD200D63004 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDC1C430BD200D63004 /* XCTestSuite+QuickTestSuiteBuilder.m */; };
 		CE590E1A1C431FE300253D19 /* QuickTestSuite.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDA1C430BD200D63004 /* QuickTestSuite.swift */; };
 		CE590E1B1C431FE300253D19 /* QuickSelectedTestSuiteBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CED91C430BD200D63004 /* QuickSelectedTestSuiteBuilder.swift */; };
 		CE590E1C1C431FE300253D19 /* NSBundle+CurrentTestBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CED81C430BD200D63004 /* NSBundle+CurrentTestBundle.swift */; };
 		CE590E1D1C431FE300253D19 /* URL+FileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDB1C430BD200D63004 /* URL+FileName.swift */; };
-		CE590E1E1C431FE300253D19 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDC1C430BD200D63004 /* XCTestSuite+QuickTestSuiteBuilder.m */; };
 		CE590E1F1C431FE400253D19 /* QuickTestSuite.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDA1C430BD200D63004 /* QuickTestSuite.swift */; };
 		CE590E201C431FE400253D19 /* QuickSelectedTestSuiteBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CED91C430BD200D63004 /* QuickSelectedTestSuiteBuilder.swift */; };
 		CE590E211C431FE400253D19 /* NSBundle+CurrentTestBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CED81C430BD200D63004 /* NSBundle+CurrentTestBundle.swift */; };
 		CE590E221C431FE400253D19 /* URL+FileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDB1C430BD200D63004 /* URL+FileName.swift */; };
-		CE590E231C431FE400253D19 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = CE57CEDC1C430BD200D63004 /* XCTestSuite+QuickTestSuiteBuilder.m */; };
 		DA02C91919A8073100093156 /* ExampleMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA02C91819A8073100093156 /* ExampleMetadata.swift */; };
 		DA02C91A19A8073100093156 /* ExampleMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA02C91819A8073100093156 /* ExampleMetadata.swift */; };
 		DA05D61019F73A3800771050 /* AfterEachTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA05D60F19F73A3800771050 /* AfterEachTests.swift */; };
@@ -1390,7 +1387,6 @@
 				DED3036D1DF6C66B0041394E /* String+C99ExtendedIdentifier.swift in Sources */,
 				CE590E211C431FE400253D19 /* NSBundle+CurrentTestBundle.swift in Sources */,
 				1F118D071BDCA536005013A2 /* Callsite.swift in Sources */,
-				CE590E231C431FE400253D19 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */,
 				1F118D081BDCA536005013A2 /* Filter.swift in Sources */,
 				1F118CFD1BDCA536005013A2 /* World+DSL.swift in Sources */,
 				CE590E221C431FE400253D19 /* URL+FileName.swift in Sources */,
@@ -1487,7 +1483,6 @@
 				89D2C676284DA77D004B108C /* SubclassDetection.swift in Sources */,
 				CE590E1C1C431FE300253D19 /* NSBundle+CurrentTestBundle.swift in Sources */,
 				DAE7150119FF6A62005905B8 /* QuickConfiguration.m in Sources */,
-				CE590E1E1C431FE300253D19 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */,
 				34F375A819515CA700CE1B99 /* Callsite.swift in Sources */,
 				34F375AE19515CA700CE1B99 /* ExampleGroup.swift in Sources */,
 				CE590E1D1C431FE300253D19 /* URL+FileName.swift in Sources */,
@@ -1632,7 +1627,6 @@
 				89D2C675284DA77D004B108C /* SubclassDetection.swift in Sources */,
 				DA408BE619FF5599005DF92A /* SuiteHooks.swift in Sources */,
 				34F375B919515CA700CE1B99 /* QuickSpec.m in Sources */,
-				CE57CEE11C430BD200D63004 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */,
 				DAE7150019FF6A62005905B8 /* QuickConfiguration.m in Sources */,
 				34F375A719515CA700CE1B99 /* Callsite.swift in Sources */,
 				CE57CEE01C430BD200D63004 /* URL+FileName.swift in Sources */,
